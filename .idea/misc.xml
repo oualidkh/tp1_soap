@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/ws4g/pom.xml" />
+        <option value="$PROJECT_DIR$/client41/TP1/pom.xml" />
+        <option value="$PROJECT_DIR$/client41/client41/pom.xml" />
+        <option value="$PROJECT_DIR$/client41/ecom-application/customer-service/pom.xml" />
+        <option value="$PROJECT_DIR$/client41/ecom-application2/gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/client41/ecom-application2/billing-service/pom.xml" />
+        <option value="$PROJECT_DIR$/client41/ecom-application2/customer-service/pom.xml" />
+        <option value="$PROJECT_DIR$/client41/ecom-application2/discovery-service/pom.xml" />
+        <option value="$PROJECT_DIR$/client41/ecom-application2/inventory1-service/pom.xml" />
+        <option value="$PROJECT_DIR$/client41/ecom1-application/customer2-service/pom.xml" />
+        <option value="$PROJECT_DIR$/client41/bankaccount-service/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" project-jdk-name="openjdk-22" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

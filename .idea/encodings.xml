@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/client41/TP1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client41/TP1/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client41/bankaccount-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client41/client41/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client41/client41/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client41/ecom-application/customer-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client41/ecom-application2/billing-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client41/ecom-application2/customer-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client41/ecom-application2/discovery-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client41/ecom-application2/gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client41/ecom-application2/inventory1-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/client41/ecom1-application/customer2-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ws4g/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ws4g/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
